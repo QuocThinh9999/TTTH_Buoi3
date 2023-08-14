@@ -17,6 +17,7 @@ namespace TTTH_Buoi3
         {
             Console.Write("Hay nhap vao so nguyen n: ");
             int n =int.Parse(Console.ReadLine());
+            //
             return n;   
         }
     }
